@@ -1,0 +1,23 @@
+{
+    "m_Name": "Settings",
+    "m_Path": "ProjectSettings/Packages/com.unity.connect.share/Settings.json",
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"/Users/coreymattes/Unity/CreateWithCodeProjects/Counting Prototype/Builds/Fetch_v1.7WebGL;/Users/coreymattes/Unity/CreateWithCodeProjects/Counting Prototype/Builds/Fetch_v1.6.1WebGL;/Users/coreymattes/Unity/CreateWithCodeProjects/Counting Prototype/Builds/Fetch_v1.6WebGL;/Users/coreymattes/Unity/CreateWithCodeProjects/Counting Prototype/Builds/Fetch_v1.5.5WebGL;/Users/coreymattes/Unity/CreateWithCodeProjects/Counting Prototype/Builds/Fetch_v1.5WebGL;/Users/coreymattes/Unity/CreateWithCodeProjects/Counting Prototype/Builds/Fetch_v1.4.1WebGL;/Users/coreymattes/Unity/CreateWithCodeProjects/Counting Prototype/Builds/Fetch_v1.4WebGL;/Users/coreymattes/Unity/CreateWithCodeProjects/Counting Prototype/Builds/Fetch_v1.3WebGL;;\"}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":true}"
+            }
+        ]
+    }
+}
